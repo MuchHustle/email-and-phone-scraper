@@ -15,4 +15,4 @@ requests
 openpyxl  
 datetime
 
-If you have questions or want to contact me, visit my website https://www.cameroncobbconsulting.com
+
